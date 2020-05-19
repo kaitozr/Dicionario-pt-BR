@@ -1,0 +1,1 @@
+# Dicionario-pt-BR
