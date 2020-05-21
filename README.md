@@ -4,11 +4,12 @@
 Brazilian portuguese dictionary project usind the xml database from [dicionário-aberto](https://dicionario-aberto.net/).
 The code is supposed to first run in IDLE then in a GUI with tkinter.
 
-Bibliotecas:
+Librarys:
 ```
 import xml.etree.ElementTree as ET
 import os
 import glob
+from unidecode import unidecode
 ``` 
 - [x] Read all XML database files;
 - [x] Recognize words with different typing (accents, lower/upper cases);
