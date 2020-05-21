@@ -2,7 +2,7 @@
 ### *Project in progress*
 
 Brazilian portuguese dictionary project usind the xml database from [dicionário-aberto](https://dicionario-aberto.net/).
-The code is supposed first to run in IDLE then in a GUI with tkinter.
+The code is supposed to first run in IDLE then in a GUI with tkinter.
 
 Bibliotecas:
 ```
