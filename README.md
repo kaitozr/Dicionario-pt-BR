@@ -16,5 +16,5 @@ import glob
 - [ ] Create a GUI with tkinter
 
 *About the coder:
-I'm a begginer in coding, python is my first language and this is my first project. So if you see something strange, just tell me, i'll be glad to take constructive critics. *
-*email: ricardorkaito@gmail.com*
+I'm a begginer in coding, python is my first language and this is my first project. So if you see something strange, just tell me, i'll be glad to take constructive critics.
+email: ricardorkaito@gmail.com*
